@@ -1,4 +1,4 @@
-#version 330
+#version 300 es
 
 uniform mat4 model_matrix;
 uniform mat4 projection_matrix;
